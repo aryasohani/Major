@@ -11,7 +11,7 @@ Automatically generate a new interior design that retains the structure but appl
 
 Powered by ControlNet, this model ensures that the room's structure is preserved while applying the visual style described by the user.
 
-🧠 How It Works
+How It Works
 Upload Room Image: A photo of any interior space (e.g., bedroom, living room).
 
 Edge Detection: The image is processed using Canny edge detection to extract the structure.
